@@ -1,0 +1,3 @@
+skill-sdk
+fuzzywuzzy
+python-Levenshtein
