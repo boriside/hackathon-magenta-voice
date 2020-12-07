@@ -7,7 +7,7 @@ import logging
 def virtual_teacher_handler(answer: str):
     logger = logging.getLogger(__name__)
     logger.info("**** Context2 = " + str(context))
-    ask_freetext("What do you want to play")
+    return ask_freetext("What do you want to play")
 
 INTENT_NAME = "CVI_INTERNAL_ASK_FREETEXT"
 
