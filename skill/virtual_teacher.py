@@ -7,7 +7,7 @@ import logging
 def virtual_teacher_handler(answer: str):
     logger = logging.getLogger(__name__)
     logger.info("**** Context2 = " + str(context))
-    return ask_freetext("Was möchtest du heute spielen?")
+    return ask_freetext("Was möchtest du heute spielen? Mathe Fragen oder Geometrie?")
 
 @skill.intent_handler('CVI_INTERNAL_ASK_FREETEXT')
 def handler():
