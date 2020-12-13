@@ -9,7 +9,7 @@ import uuid
 def virtual_teacher_handler(answer: str):
     logger = logging.getLogger(__name__)
     logger.info("**** Start Context = " + str(context))
-    return ask_freetext("Hallo, Irena! Was möchtest du heute machen? Ich kann dir Algebra oder Geometrie Aufgaben anbieten oder einige Fitness Übungen zeigen.")
+    return ask_freetext("Hallo! Was möchtest du heute machen? Ich kann dir Algebra oder Geometrie Aufgaben anbieten oder einige Fitness Übungen zeigen.")
 
 
 @skill.intent_handler('CVI_INTERNAL_ASK_FREETEXT')
