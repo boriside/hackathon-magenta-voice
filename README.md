@@ -18,4 +18,4 @@ User needs to register himself before using the APP. Its a One time process when
 User will follow this URL every time when they need to use the virtual-teacher.
 
 ## Current Limitaion - Scope for Future work
-Portal and user registration feature is not developed as part of the Hackathon. Hence, only one virtual room exists currently and only a single user can use it at a time currently. This limitation will be addressed once user registration functionality is developed. 
+Portal and user registration feature is not developed as part of the Hackathon. Hence, only one virtual room exists and only a single user can use it at a time currently. This limitation will be addressed once user registration functionality is developed. 
