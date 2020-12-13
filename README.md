@@ -24,17 +24,15 @@ Magenta smart speaker skill to Operate Virtual Teacher App. More info about the 
 * V Lehrer sagt: Sehr gut. Dann habe ich andere Frage: Was ist das für eine Figur?
 * Eltern/Kind: Spiel beenden!
 
-## Pre requisite to integrate Magenta Speaker with VR room:
+## Pre requisite to integrate Magenta Speaker with VR room (future work):
 
 User needs to register himself before using the APP. Its a One time process when user procures a new speaker. Registration is done following three simple steps
 
-1) Login To portal using Google / Facebook account
-2) Register the Magenta speaker 
-3) A URL will be generated automatically for the VR room. 
-User will follow this URL every time when they need to use the virtual-teacher.
+1) Create an account in the Virtual Teacher Portal
+2) Register the Magenta speaker there
+3) A User Profile will be linked to a URL for the VR room.
 
 ## Current Limitaion - Scope for Future work
-Portal and user registration feature is not developed as part of the Hackathon. Hence, only one virtual room exists and only a single user can use it at a time currently. This limitation will be addressed once user registration functionality is developed. 
-
+Portal and user registration feature is not developed as part of the Hackathon. Hence, only one virtual room exists and only a single user can use it at a time currently. This limitation will be addressed once user registration functionality is developed. Please contact us if you notice undesired behaviour of the Virtual Teacher - the reason might be that we are testing simultaneously or we need to clean up the backend.
 
 [![Watch the video](https://res.cloudinary.com/ideation/image/upload/w_1920,c_fit,q_auto,f_auto,dpr_auto/ouqmyj3oy5klffsshhzr)](https://www.youtube.com/watch?v=mXDeAB8i0bo)
