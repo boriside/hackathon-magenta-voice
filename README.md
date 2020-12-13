@@ -3,6 +3,9 @@
 Magenta smart speaker skill to Operate Virtual Teacher App. More info about the app could be found here : [Virtual Teacher](https://remote-rhapsody-platform.hubraum.com/#/projects/5fbbd28663da71001b1d3f83)
 
 ## Short Demo of the App
+
+[Watch Video](https://www.youtube.com/watch?v=mXDeAB8i0bo)
+
 [![Watch the video](https://res.cloudinary.com/ideation/image/upload/w_1920,c_fit,q_auto,f_auto,dpr_auto/ouqmyj3oy5klffsshhzr)](https://www.youtube.com/watch?v=mXDeAB8i0bo)
 
 ## Pre requisite to integrate Magenta Speaker with VR room:
