@@ -25,7 +25,7 @@ Magenta smart speaker skill to Operate Virtual Teacher App. More info about the 
 * Eltern/Kind: Spiel beenden!
 
 ## Services architecture:
-![alt text](https://github.com/boriside/hackathon-magenta-voice/blob/master/infrastructure.jpg?raw=true)  
+![alt text](https://github.com/boriside/hackathon-magenta-voice/blob/main/infrastructure.jpg?raw=true)  
 
 ## Pre requisite to integrate Magenta Speaker with VR room (future work):
 
