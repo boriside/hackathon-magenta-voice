@@ -8,21 +8,21 @@ Magenta smart speaker skill to Operate Virtual Teacher App. More info about the 
 
 ## Currently supported dialog:
 
-Eltern/Kind: Hallo Magenta, starte Lehrer!
-V Lehrer sagt: Hallo … was möchtest du heute machen? Algebra oder Geometrie? Ich kann dir auch einige Fitness Übungen zeigen.
-Kind sagt: Algebra!
-V Lehrer sagt: Was ist die Summe von 3 und 1?
-Kind sagt: 4!
-V Lehrer sagt: Sehr gut. Dann habe ich andere Frage: Wie viel macht es wenn man 3 von 7 subtrahiert?
-Kind sagt: 2!
-V Lehrer sagt: Das stimmt leider nicht so ganz. Lass uns mal wieder probieren Wie viel macht es wenn man 3 von 7 subtrahiert?
-Kind sagt: 4!
-V Lehrer sagt: Sehr gut. Dann habe ich andere Frage: Wie viel macht es wenn man 12 von 34 subtrahiert?
-Kind sagt: Wechseln!
-V Lehrer sagt: Was ist diese Figur? (quadrat, dreieck, kreis, rechteck)
-Kind sagt: Dreieck!
-V Lehrer sagt: Sehr gut. Dann habe ich andere Frage: Was ist das für eine Figur?
-Eltern/Kind: Spiel beenden!
+* Eltern/Kind: Hallo Magenta, starte Lehrer!
+* V Lehrer sagt: Hallo … was möchtest du heute machen? Algebra oder Geometrie? Ich kann dir auch einige Fitness Übungen zeigen.
+* Kind sagt: Algebra!
+* V Lehrer sagt: Was ist die Summe von 3 und 1?
+* Kind sagt: 4!
+* V Lehrer sagt: Sehr gut. Dann habe ich andere Frage: Wie viel macht es wenn man 3 von 7 subtrahiert?
+* Kind sagt: 2!
+* V Lehrer sagt: Das stimmt leider nicht so ganz. Lass uns mal wieder probieren Wie viel macht es wenn man 3 von 7 subtrahiert?
+* Kind sagt: 4!
+* V Lehrer sagt: Sehr gut. Dann habe ich andere Frage: Wie viel macht es wenn man 12 von 34 subtrahiert?
+* Kind sagt: Wechseln!
+* V Lehrer sagt: Was ist diese Figur? (quadrat, dreieck, kreis, rechteck)
+* Kind sagt: Dreieck!
+* V Lehrer sagt: Sehr gut. Dann habe ich andere Frage: Was ist das für eine Figur?
+* Eltern/Kind: Spiel beenden!
 
 ## Pre requisite to integrate Magenta Speaker with VR room:
 
