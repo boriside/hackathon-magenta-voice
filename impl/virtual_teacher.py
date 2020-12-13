@@ -16,6 +16,8 @@ def virtual_teacher_handler(answer: str):
 def handler(stt: str, user_id: str):
     try:
         if stt.lower() == 'spiel beenden':
+            with CircuitBreakerSession() as session:
+                session.delete('https://n3i39w6xtc.execute-api.eu-west-1.amazonaws.com/prod/delsession?id=' + user_id)
             return tell("Auf Wiedersehen. bis bald")
         logger = logging.getLogger(__name__)
         logger.info("**** CVI Context = " + str(context))
