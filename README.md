@@ -39,3 +39,8 @@ User needs to register himself before using the APP. Its a One time process when
 Portal and user registration feature is not developed as part of the Hackathon. Hence, only one virtual room exists and only a single user can use it at a time currently. This limitation will be addressed once user registration functionality is developed. Please contact us if you notice undesired behaviour of the Virtual Teacher - the reason might be that we are testing simultaneously or we need to clean up the backend.
 
 [![Watch the video](https://res.cloudinary.com/ideation/image/upload/w_1920,c_fit,q_auto,f_auto,dpr_auto/ouqmyj3oy5klffsshhzr)](https://www.youtube.com/watch?v=mXDeAB8i0bo)
+
+## App is making use of these repositories:
+- [Virtual Teacher Web](https://github.com/ssharma555/virtual-teacher-web)
+- [Virtual Teacher API](https://github.com/ssharma555/virtual-teacher-api) 
+
