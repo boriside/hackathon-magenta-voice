@@ -22,8 +22,6 @@ def handler(stt: str, user_id: str):
             return tell("Auf Wiedersehen. bis bald")
         logger = logging.getLogger(__name__)
         logger.info("**** CVI Context = " + str(context))
-        if stt not in ["algebra", "geometrie"]:
-            return ask_freetext("Entschuldigung, ich habe es nicht verstanden. Bitte wählen Sie zwischen Algebra oder Geometrie")
         with CircuitBreakerSession() as session:
             logger.info("**** user_hash = " + str(user_id))
             response = session.get(
