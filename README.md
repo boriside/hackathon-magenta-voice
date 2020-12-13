@@ -24,6 +24,9 @@ Magenta smart speaker skill to Operate Virtual Teacher App. More info about the 
 * V Lehrer sagt: Sehr gut. Dann habe ich andere Frage: Was ist das für eine Figur?
 * Eltern/Kind: Spiel beenden!
 
+## Services architecture:
+![alt text](https://github.com/boriside/hackathon-magenta-voice/blob/master/infrastructure.jpg?raw=true)  
+
 ## Pre requisite to integrate Magenta Speaker with VR room (future work):
 
 User needs to register himself before using the APP. Its a One time process when user procures a new speaker. Registration is done following three simple steps
